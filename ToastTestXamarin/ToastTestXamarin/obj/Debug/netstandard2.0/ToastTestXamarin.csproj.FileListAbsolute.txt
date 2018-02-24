@@ -1,0 +1,22 @@
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.deps.json
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.dll
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.pdb
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.csproj.CoreCompileInputs.cache
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.App.xaml.g.cs
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.MainPage.xaml.g.cs
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.AssemblyInfoInputs.cache
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.AssemblyInfo.cs
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.dll
+c:\users\hjw\documents\visual studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.pdb
+C:\Users\hjw\Documents\Visual Studio 2017\Projects\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.csprojResolveAssemblyReference.cache
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.deps.json
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.dll
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\bin\Debug\netstandard2.0\ToastTestXamarin.pdb
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.csprojResolveAssemblyReference.cache
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.csproj.CoreCompileInputs.cache
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.App.xaml.g.cs
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.MainPage.xaml.g.cs
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.AssemblyInfoInputs.cache
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.AssemblyInfo.cs
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.dll
+C:\jeevan\ToastTestXamarin\ToastTestXamarin\ToastTestXamarin\obj\Debug\netstandard2.0\ToastTestXamarin.pdb
